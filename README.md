@@ -9,4 +9,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
 - [Next.js — GitHub](https://github.com/vercel/next.js/)
-- [Next.js — Docs](https://nextjs.org/docs)
+- [Next.js — Docs](https://nextjs.org/docs) 
